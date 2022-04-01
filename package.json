@@ -1,0 +1,24 @@
+{
+  "name": "select-and-share-a-place",
+  "version": "1.0.0",
+  "description": "Select and Share a place using third party libraries. Practice project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreyesch/select-and-share-a-place.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jreyesch/select-and-share-a-place/issues"
+  },
+  "homepage": "https://github.com/jreyesch/select-and-share-a-place#readme",
+  "keywords": [],
+  "devDependencies": {
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
