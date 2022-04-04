@@ -44,3 +44,5 @@ types/enum-type.js
 types/functions.js
 types/union-aliases.js
 types/unknown-never.js
+dist/app.js.map
+dist/bundle.js
